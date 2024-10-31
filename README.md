@@ -60,10 +60,12 @@ For ABR:
 ```bash
 python3 src/run_abcrown_abr.py <model_name> --abcrown <alpha-beta-crown path>
 ```
+Hint: The abcrown path is like `xxx/complete_verifier/abcrown.py`
 
 For CC:
 ```bash
 python3 src/run_abcrown_cc.py <model_name> --abcrown <alpha-beta-crown path>
 ```
+Hint: The abcrown path is like `xxx/complete_verifier/abcrown.py`
 
 We provide the network traces and training files for our Aurora implementation in ```Aurora/```.
