@@ -42,6 +42,6 @@ def main(abcrown_path):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Verify cc  with abcrown.")
-    parser.add_argument('--abcrown_path', type=str, help="Path to the abcrown verifier.", default='complete_verifier/abcrown.py')
+    parser.add_argument('--abcrown', type=str, help="Path to the abcrown verifier.", default='complete_verifier/abcrown.py')
     args = parser.parse_args()
     main(args.abcrown_path)

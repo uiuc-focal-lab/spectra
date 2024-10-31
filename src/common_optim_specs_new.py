@@ -6,6 +6,7 @@ from sklearn.cluster import DBSCAN
 import math 
 import json
 import pandas as pd
+import os
 
 def nontrivial_beh(outputs, csrs):
     # find union of all the outputs
@@ -161,6 +162,11 @@ def spec_fun(ccs, csrs, columns, all_columns, data_files, args, feat_mins, feat_
         columns_str = '_'.join(columns_str)
         filename = f'results/{app}_optim_specs_{mode}_{columns_str}_train.txt'
     print('Writing spec in file:', filename)
+
+    if not os.path.exists('results'):
+        os.makedirs('results')
+
+
     
     with open(filename, 'w') as f:
         

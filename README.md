@@ -15,6 +15,7 @@ conda create -n nn4syspec python==3.11
 Then install the missing packages when running the following scripts.
 
 ## 2. Specification Generation
+Note: You can replace the `python3` with `python` in the following command if needed.
 
 To generate specifications for ABR, run:
 ```bash

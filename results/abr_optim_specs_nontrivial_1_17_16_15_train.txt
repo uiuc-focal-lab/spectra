@@ -1,0 +1,120 @@
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.15, 0.66], "Last2_downloadtime": [0.15, 0.79], "Last3_downloadtime": [0.54, 1.05]}
+output: {np.float64(1200.0), np.float64(2850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.15, 1.05], "Last2_downloadtime": [0.02, 0.79], "Last3_downloadtime": [0.15, 1.05]}
+output: {np.float64(2850.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0), np.float64(1200.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.28, 0.66], "Last2_downloadtime": [0.15, 0.66], "Last3_downloadtime": [0.54, 0.92]}
+output: {np.float64(2850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.28, 0.66], "Last2_downloadtime": [0.15, 0.79], "Last3_downloadtime": [0.41, 1.05]}
+output: {np.float64(1200.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.28, 0.66], "Last2_downloadtime": [0.28, 0.66], "Last3_downloadtime": [0.54, 0.92]}
+output: {np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.28, 0.66], "Last2_downloadtime": [0.54, 1.05], "Last3_downloadtime": [0.28, 0.66]}
+output: {np.float64(2850.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0), np.float64(1200.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.28, 0.66], "Last2_downloadtime": [0.66, 1.05], "Last3_downloadtime": [0.28, 0.66]}
+output: {np.float64(1200.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.28, 1.05], "Last2_downloadtime": [0.15, 0.79], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(1200.0), np.float64(2850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.54, 1.05], "Last2_downloadtime": [0.15, 0.66], "Last3_downloadtime": [0.15, 0.54]}
+output: {np.float64(1850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.5], "Last1_downloadtime": [0.54, 1.05], "Last2_downloadtime": [0.15, 0.66], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(1200.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.54], "Last1_downloadtime": [0.15, 0.66], "Last2_downloadtime": [0.15, 0.79], "Last3_downloadtime": [0.41, 1.05]}
+output: {np.float64(1850.0), np.float64(300.0), np.float64(750.0), np.float64(2850.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 0.54], "Last1_downloadtime": [0.54, 1.05], "Last2_downloadtime": [0.15, 0.66], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(2850.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0), np.float64(1850.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 1.09], "Last1_downloadtime": [0.02, 1.18], "Last2_downloadtime": [0.02, 1.18], "Last3_downloadtime": [0.02, 1.18]}
+output: {np.float64(4300.0), np.float64(300.0), np.float64(750.0), np.float64(1200.0), np.float64(1850.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.4, 1.48], "Last1_downloadtime": [0.02, 1.18], "Last2_downloadtime": [0.02, 1.18], "Last3_downloadtime": [0.02, 1.18]}
+output: {np.float64(2850.0), np.float64(300.0), np.float64(750.0), np.float64(1200.0), np.float64(1850.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.5, 0.61], "Last1_downloadtime": [0.54, 0.92], "Last2_downloadtime": [0.15, 0.54], "Last3_downloadtime": [0.15, 0.54]}
+output: {np.float64(2850.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0), np.float64(1200.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.61, 0.75], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.41, 1.05], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(1850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.61, 0.78], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.41, 1.05], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(1850.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.61, 0.78], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.41, 1.18], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(1200.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.61, 0.82], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.41, 1.05], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(2850.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0), np.float64(1850.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.61, 1.06], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.02, 1.18], "Last3_downloadtime": [0.15, 1.18]}
+output: {np.float64(2850.0), np.float64(4300.0), np.float64(300.0), np.float64(750.0), np.float64(1200.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.64, 0.75], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.15, 0.54], "Last3_downloadtime": [0.54, 1.18]}
+output: {np.float64(1200.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.64, 0.78], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.15, 0.54], "Last3_downloadtime": [0.54, 0.92]}
+output: {np.float64(2850.0), np.float64(1850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.75, 0.82], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.15, 0.54], "Last3_downloadtime": [0.54, 0.92]}
+output: {np.float64(1200.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.78, 0.92], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.54, 0.92], "Last3_downloadtime": [0.28, 0.66]}
+output: {np.float64(1200.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.82, 0.89], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.54, 0.92], "Last3_downloadtime": [0.28, 0.66]}
+output: {np.float64(2850.0), np.float64(1850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.82, 0.96], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.41, 0.92], "Last3_downloadtime": [0.15, 0.66]}
+output: {np.float64(1200.0), np.float64(2850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.85, 0.96], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.02, 0.41], "Last3_downloadtime": [0.28, 0.66]}
+output: {np.float64(1200.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [0.85, 1.06], "Last1_downloadtime": [0.02, 0.41], "Last2_downloadtime": [0.02, 0.41], "Last3_downloadtime": [0.54, 1.05]}
+output: {np.float64(1200.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [1.09, 1.2], "Last1_downloadtime": [0.02, 0.54], "Last2_downloadtime": [0.02, 0.54], "Last3_downloadtime": [0.41, 0.79]}
+output: {np.float64(1200.0), np.float64(1850.0), np.float64(300.0), np.float64(750.0)}
+
+--------------------------------------------------
+{"Last1_buffer_size": [1.09, 1.23], "Last1_downloadtime": [0.41, 0.79], "Last2_downloadtime": [0.15, 0.66], "Last3_downloadtime": [0.15, 0.54]}
+output: {np.float64(2850.0), np.float64(4300.0), np.float64(750.0), np.float64(1200.0), np.float64(1850.0)}
+
+--------------------------------------------------
