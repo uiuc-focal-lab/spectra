@@ -58,5 +58,8 @@ def main(abcrown_path):
         os.system(cmd)
 
 if __name__ == "__main__":
-    abcrown_path = 'complete_verifier/abcrown.py'
-    main(abcrown_path)
+    parser = argparse.ArgumentParser(description="Verify abr with abcrown.")
+    parser.add_argument('--abcrown_path', type=str, help="Path to the abcrown verifier.", default='complete_verifier/abcrown.py')
+    args = parser.parse_args()
+    main(args.abcrown_path)
+

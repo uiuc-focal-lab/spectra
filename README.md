@@ -55,12 +55,12 @@ python3 src/specs_2_vnnlib_cc.py <name_spec_file>
 To verify the specifications, install alpha-beta CROWN https://github.com/Verified-Intelligence/alpha-beta-CROWN, and run the script:
 For ABR:
 ```bash
-python3 src/run_abcrown_abr.py <model_name>
+python3 src/run_abcrown_abr.py <model_name> --abcrown <alpha-beta-crown path>
 ```
 
 For CC:
 ```bash
-python3 src/run_abcrown_cc.py <model_name>
+python3 src/run_abcrown_cc.py <model_name> --abcrown <alpha-beta-crown path>
 ```
 
 We provide the network traces and training files for our Aurora implementation in ```Aurora/```.
