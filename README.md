@@ -32,12 +32,14 @@ Both the above scripts take a set of optional parameters. To see the list of par
 python3 src/optim_specs_abr.py --help
 ```
 
-To get the support and confidence values for the generated specifications for ABR, run:
+To get the support and confidence values for the generated specifications, run (```<spec_file>``` is path of where the specifications are stored):
+
+For ABR:
 ```bash
 python3 src/test_optim_specs_abr.py <spec_file>
 ```
 
-To get the support and confidence values for the generated specifications for CC, run:
+For CC:
 ```bash
 python3 src/test_optim_specs_cc.py <spec_file>
 ```
